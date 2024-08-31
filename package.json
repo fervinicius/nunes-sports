@@ -1,0 +1,19 @@
+{
+  "name": "nunes-sports",
+  "version": "1.0.0",
+  "description": "Desenvolver uma empresa fictícia chamada Nunes Sports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Vinicius Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
